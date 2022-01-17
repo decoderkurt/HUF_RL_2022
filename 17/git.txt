@@ -2,3 +2,5 @@
 https://tortoisegit.org/download/
 
 git clone https://github.com/decoderkurt/HUF_RL_2022.git
+
+https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo
